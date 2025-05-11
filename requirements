@@ -1,0 +1,10 @@
+
+### ✅ **4. `requirements.txt`**
+This file lists all the Python dependencies that someone will need to install in order to run the code. It’s often used with `pip` to automatically install all required libraries.
+
+
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
